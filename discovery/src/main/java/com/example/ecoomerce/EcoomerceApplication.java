@@ -10,5 +10,4 @@ public class EcoomerceApplication {
     public static void main(String[] args) {
         SpringApplication.run(EcoomerceApplication.class, args);
     }
-
 }
